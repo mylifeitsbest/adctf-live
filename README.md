@@ -16,15 +16,6 @@ git clone https://github.com/mylifeitsbest/adctf-live.git
 2. [00_how_it_works.md](00_how_it_works.md) — что такое A/D, на пальцах.
 3. Своя роль — в таблице ниже, личный гайд в [roles/](roles/).
 
-## Команда — личный гайд каждому
-| Человек | Роль | Свой гайд |
-|--------|------|----------|
-| **Рома** | Капитан + Vulnbox/Защита | [roles/roma_captain.md](roles/roma_captain.md) |
-| **Глеб** | Эксплойтер | [roles/gleb_exploiter.md](roles/gleb_exploiter.md) |
-| **Паша** | Патчер | [roles/pasha_patcher.md](roles/pasha_patcher.md) |
-| **Саша Ф** | Дампщик/Трафик | [roles/sasha_f_traffic.md](roles/sasha_f_traffic.md) |
-| **Саша А** | Ферма/Сабмит + SLA | [roles/sasha_a_ferma.md](roles/sasha_a_ferma.md) |
-
 ## Все файлы
 Гайды:
 - [BATTLE.md](BATTLE.md) — боевой гайд на все 7 часов + подготовка за 3 часа
