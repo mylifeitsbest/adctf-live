@@ -14,7 +14,6 @@ git clone https://github.com/mylifeitsbest/adctf-live.git
 1. [START_HERE.md](START_HERE.md) — первые 40 минут по минутам, кто что делает.
    - [FIRST_40_MIN.md](FIRST_40_MIN.md) — **если страшно трогать сервак**: те же шаги за руку, с защитой от залочивания и сбросом пароля.
 2. [00_how_it_works.md](00_how_it_works.md) — что такое A/D, на пальцах.
-3. Своя роль — в таблице ниже, личный гайд в [roles/](roles/).
 
 ## Все файлы
 Гайды:
